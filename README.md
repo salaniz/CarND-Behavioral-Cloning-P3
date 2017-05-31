@@ -11,4 +11,4 @@ Videos: [videos/](videos/)
 
 ## Demo of Autonomous Car:
 
-![alt text](./videos/lap.gif)
+<img src="./videos/lap.gif" width="480">

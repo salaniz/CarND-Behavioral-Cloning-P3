@@ -5,7 +5,7 @@ Project to teach a car how to drive by first gathering data navigating a car aro
 
 Full description of problem and task: [TASK.md](TASK.md)  
 Source code (NN training): [model.py](model.py)  
-Execution: python drive.py model.h5  
+Execution: python drive.py model.h5 (car simulator needed: https://github.com/udacity/self-driving-car-sim)
 Writeup: [WRITEUP.md](WRITEUP.md)  
 Videos: [videos/](videos/)
 
